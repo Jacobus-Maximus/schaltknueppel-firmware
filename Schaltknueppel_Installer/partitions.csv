@@ -1,0 +1,8 @@
+# Name,   Type, SubType, Offset,  Size, Flags
+# Two 4 MB app slots, as the Schaltknueppel firmware needs them: the installer runs in ota_0 and receives the
+# firmware into ota_1. otadata at 0xe000 and ota_0 at 0x10000 are where the Arduino IDE writes them.
+# The firmware finds every partition by its name, so it runs with this table as well. The board has 16 MB of flash.
+nvs,      data, nvs,     0x9000,   0x5000,
+otadata,  data, ota,     0xe000,   0x2000,
+ota_0,    app,  ota_0,   0x10000,  4M,
+ota_1,    app,  ota_1,   0x410000, 4M,
