@@ -12,6 +12,7 @@ In diesem Repository liegen:
 
 - **[Releases](../../releases)** mit der Firmware (`schaltknueppel-X.Y.Z.bin` für Updates, `schaltknueppel-full-X.Y.Z.bin`
   für die erste Installation) und der Android-App (Release **„app“**)
+- **[App](App)**: die aktuelle Android-App als APK zum direkten Herunterladen
 - **[Schaltknueppel_Installer](Schaltknueppel_Installer)**: ein kleiner Arduino-Sketch, der ein neues Board für die erste
   Installation vorbereitet
 
@@ -44,8 +45,8 @@ Wie herum das Board sitzt, ist egal: Bei der Einrichtung misst es seine Lage und
 
 ## 3. App installieren
 
-1. Auf dem Handy die neueste APK aus dem Release **[app](../../releases/tag/app)** laden
-   (`schaltknueppel-app-X.Y.Z.apk`).
+1. Auf dem Handy die App laden: **[App/Schaltknueppel-App.apk](App/Schaltknueppel-App.apk)**
+   (dort auf „Download raw file“ tippen). Die neueste Version liegt immer auch im Release **[app](../../releases/tag/app)**.
 2. Öffnen. Android fragt einmal, ob die App installiert werden darf, die du dafür benutzt (Browser oder Dateien) – erlauben.
 3. Die App aktualisiert sich danach selbst, sobald es eine neue Version gibt.
 
