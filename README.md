@@ -158,4 +158,11 @@ Kartendaten © OpenStreetMap-Mitwirkende ([ODbL](https://www.openstreetmap.org/c
 Open-Source-Bestandteile (u. a. ESP-IDF, NimBLE, LVGL, Montserrat, Android Jetpack); die Liste steht in der App unter
 *Einstellungen › Lizenzen*. „Waveshare“ ist ein Name des Herstellers des Boards; dieses Projekt steht in keiner Verbindung zu ihm.
 
+## 11. Lizenz
+
+- **Installer und Anleitung:** CC BY-NC 4.0 – nutzen, ändern und weitergeben mit Namensnennung, aber nicht kommerziell.
+- **Firmware und App:** kostenlos nutzen und unverändert kostenlos weitergeben, aber nicht verkaufen. Ohne Gewähr.
+
+Details in [LICENSE.md](LICENSE.md).
+
 Kontakt: Jacob Richter · jacob.richter@gmx.net · privates, kostenloses Projekt

@@ -1,4 +1,5 @@
 // Schaltknueppel Installer
+// (c) 2026 Jacob Richter, licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
 //
 // Prepares a new Waveshare ESP32-S3-Touch-LCD-1.46B for the Schaltknueppel firmware. Flash this sketch once
 // with the Arduino IDE (settings in README.md), then open the Schaltknueppel app on the phone: it finds the board

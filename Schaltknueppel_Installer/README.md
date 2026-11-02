@@ -45,6 +45,8 @@ Den seriellen Monitor (115200 Baud) kannst du offen lassen; dort steht, was der 
 
 ## Lizenzen
 
+- Installer: © 2026 Jacob Richter, **CC BY-NC 4.0** – nutzen, ändern und weitergeben mit Namensnennung, aber nicht
+  kommerziell (siehe [LICENSE.md](LICENSE.md))
 - `esp_lcd_spd2010.c` / `.h`: © Espressif Systems, Apache License 2.0
 - Adafruit GFX Library: © Adafruit Industries, BSD License
 - Arduino-ESP32 und ESP-IDF: © Espressif Systems, Apache License 2.0 / LGPL 2.1
